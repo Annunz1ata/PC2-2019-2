@@ -12,7 +12,7 @@ for i in range(2):
 for item in lista:
     print("Nombre:", item[0],"Sexo:", item[1],"Edad:", item[2])
  
-
+a
     
 
 
