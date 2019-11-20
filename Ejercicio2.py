@@ -11,8 +11,6 @@ for i in range(2):
         break
 for item in lista:
     print("Nombre:", item[0],"Sexo:", item[1],"Edad:", item[2])
- 
-a
     
 
 
